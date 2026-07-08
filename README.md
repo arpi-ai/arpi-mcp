@@ -48,9 +48,7 @@ This repository contains registry/marketplace metadata only — the server itsel
 - `server.json` — [official MCP Registry](https://registry.modelcontextprotocol.io) listing
 - `.claude-plugin/marketplace.json` + `plugins/arpi-mcp/` — Claude Code plugin marketplace
 
-## Privacy & Support
-
-- Privacy policy: https://arpi.ai/privacy
+## Support
 - Support: support@arpi.ai
 
 ARPI's ECG AI is a medical AI service. Diagnosis reports are for reference and do not replace professional medical judgment.
