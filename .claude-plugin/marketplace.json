@@ -1,5 +1,6 @@
 {
   "name": "arpi-mcp",
+  "description": "ARPI's MCP server plugins — AI-powered ECG analysis",
   "owner": {
     "name": "ARPI Inc.",
     "url": "https://arpi.ai"
