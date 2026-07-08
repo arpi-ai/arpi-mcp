@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.arpi/arpi-mcp",
+  "title": "ARPI MCP",
+  "description": "AI-powered ECG analysis: submit ECG images and receive diagnosis reports from ARPI's ECG AI.",
+  "version": "1.0.0",
+  "websiteUrl": "https://arpi.ai",
+  "repository": {
+    "url": "https://github.com/arpi-ai/arpi-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.arpi.ai/mcp"
+    }
+  ]
+}

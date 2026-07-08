@@ -1,0 +1,10 @@
+{
+  "name": "arpi-mcp",
+  "version": "1.0.0",
+  "description": "AI-powered ECG analysis: submit ECG images and receive diagnosis reports from ARPI's ECG AI.",
+  "author": {
+    "name": "ARPI Inc.",
+    "url": "https://arpi.ai"
+  },
+  "homepage": "https://arpi.ai"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "arpi-mcp",
+  "owner": {
+    "name": "ARPI Inc.",
+    "url": "https://arpi.ai"
+  },
+  "plugins": [
+    {
+      "name": "arpi-mcp",
+      "source": "./plugins/arpi-mcp",
+      "description": "AI-powered ECG analysis via ARPI's MCP server",
+      "author": {
+        "name": "ARPI Inc.",
+        "url": "https://arpi.ai"
+      },
+      "homepage": "https://arpi.ai",
+      "category": "healthcare"
+    }
+  ]
+}
